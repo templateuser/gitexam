@@ -26,5 +26,7 @@
 
 \*Literal asterisk\*
 
+[Read here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-[Read here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf"target="_blank)
+<a href="https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf" target="_blank">Read here, with tab!</a>
+
