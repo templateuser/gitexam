@@ -16,6 +16,6 @@
     * Item 1 a
     * Item 1 b
 * Item 2
- * Item 2 direct
-   * Item 2a
-   * Item 2b
+  * Item 2 direct
+    * Item 2a
+    * Item 2b
