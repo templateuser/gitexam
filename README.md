@@ -150,6 +150,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 
 
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/hermes/blob/master/LICENSE)
 
 
 
