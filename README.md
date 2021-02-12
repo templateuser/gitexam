@@ -58,8 +58,8 @@ As someone just said,
 1. Ordered 1
 2. Ordered 2
 3. Ordered 3
-  * Item 3a
-  * Item 3b
+   * Item 3a
+   * Item 3b
 
 
 
