@@ -1,3 +1,4 @@
 Hello world
 Appended on the server
 Another line
+Inserted another file
