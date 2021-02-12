@@ -124,6 +124,8 @@ Here's an idea, why don't we take `This project` and turn it into ~This One~
 
 
 
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
 
 
 
