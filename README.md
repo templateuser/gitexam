@@ -6,3 +6,6 @@
 
 
 **This text will be bold**
+
+
+## This is an <h2> Tag
