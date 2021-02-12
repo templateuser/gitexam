@@ -1,5 +1,10 @@
+<!---
+your comment goes here
+and here
+
+
 # gitexam
-[/]: <> (This is also a comment.)
+[//]: <> (This is also a comment.)
 
 - Hello world
 
@@ -128,7 +133,7 @@ Here's an idea, why don't we take `This project` and turn it into ~This One~
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 
-
+-->
 
 
 
