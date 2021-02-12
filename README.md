@@ -1,4 +1,5 @@
 # gitexam
+[//]: <> (This is also a comment.)
 
 - Hello world
 
