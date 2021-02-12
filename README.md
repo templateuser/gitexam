@@ -23,6 +23,13 @@
 
 *You can **combine** them*
 
+__This will be bold__
+
+
+As someone just said,
+> Learning github
+> Learning github
+
 
 \*Literal asterisk\*
 
