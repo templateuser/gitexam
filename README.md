@@ -22,3 +22,6 @@
 
 
 *You can **combine** them*
+
+
+\*Literal asterisk\*
