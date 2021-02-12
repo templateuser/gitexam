@@ -150,7 +150,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 
 
-[![MIT lcsdficense](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/hermes/blob/master/LICENSE)
+[![NO lcsdficense](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/hermes/blob/master/LICENSE)
 
 
 
