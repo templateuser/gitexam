@@ -112,7 +112,7 @@ Here's an idea, why don't we take `This project` and turn it into ~This One~
 
 
 
-```
+```json
 {
   "firstName": "John",
   "lastName": "Smith",
